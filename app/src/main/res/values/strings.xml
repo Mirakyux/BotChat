@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BotChat</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="title_activity_setting">Setting</string>
+    <!-- Strings related to login -->
+    <string name="action_save">Save</string>
+    <string name="prompt_tuling">图灵key</string>
+    <string name="prompt_bd_app_id">百度翻译appid</string>
+    <string name="prompt_bd_security_key">百度翻译securitykey</string>
+</resources>
